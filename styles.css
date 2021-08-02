@@ -1,4 +1,7 @@
-body {color: rgb(255, 204, 204); background-color: rgb(212, 255, 255); font-family: 'Merriweather', serif;}
-h1 {color: rgb(204, 204, 255); background-color: rgb(212, 255, 255);}
-h2 {color: 	rgb(217, 255, 204); background: rgb(212, 255, 255);}
-h3 {color:rgb(217, 255, 204); background-color: rgb(212, 255, 255)}
+body {color: rgb(255, 204, 204); background-color: rgb(103, 122, 122); font-family: 'Merriweather', serif;}
+h1 {color: rgb(204, 204, 255); background-color: rgb(103, 122, 122);}
+h2 {color: 	rgb(217, 255, 204); background: rgb(103, 122, 122);}
+h3 {color:rgb(217, 255, 204); background-color: rgb(103, 122, 122)}
+nav a {color: rgb(212, 255, 255)}
+nav {color: rgb(212, 255, 255)}
+nav a:hover {color: mediumturquoise;}

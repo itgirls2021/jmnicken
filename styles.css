@@ -2,9 +2,17 @@ body {color: rgb(255, 204, 204); background-color: rgb(103, 122, 122); font-fami
 h1 {color: rgb(204, 204, 255); background-color: rgb(103, 122, 122);}
 h2 {color: 	rgb(217, 255, 204); background: rgb(103, 122, 122);}
 h3 {color:rgb(217, 255, 204); background-color: rgb(103, 122, 122); font-family: "Courier New", Courier, monospace;}
+
 nav a {color: rgb(212, 255, 255)}
 nav {
     padding: 10px;
     margin-bottom:30px;
     color: rgb(212, 255, 255)}
 nav a:hover {color: mediumturquoise;}
+
+div {
+    border: 1px solid rgb(132, 158, 158);
+    margin: 30px;
+    padding: 50px;
+    border-radius: 8px;
+}

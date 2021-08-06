@@ -16,3 +16,5 @@ div {
     padding: 50px;
     border-radius: 8px;
 }
+
+img {width: fit-content; height: fit-content;}
